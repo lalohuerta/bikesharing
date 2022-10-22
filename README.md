@@ -13,5 +13,5 @@ This project has as objective to analize through Tableau how the bike-sharing mo
 * Almost 89% of the trips are less than 20 minutes long.
 * Best times to do maintenance to the equipment is between 2 - 5 am everyday.
 
-<img src="/01.png" width="700">
+<img src="Images/01.png" width="700">
 
