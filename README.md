@@ -1,5 +1,8 @@
 # Bikesharing with Tableau
 
-[link to dashboard] https://public.tableau.com/app/profile/eduardo.huerta/viz/NYCOCT21/FINALSTORY?publish=yes
+### Tableau Analysis
+[Click here to see it]
+(https://public.tableau.com/app/profile/eduardo.huerta/viz/NYCOCT21/FINALSTORY?publish=yes).
+
 
 
