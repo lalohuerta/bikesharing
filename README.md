@@ -14,4 +14,8 @@ This project has as objective to analize through Tableau how the bike-sharing mo
 * Best times to do maintenance to the equipment is between 2 - 5 am everyday.
 
 <img src="Images/01.png" width="700">
-
+<img src="Images/02.png" width="700">
+<img src="Images/03.png" width="700">
+<img src="Images/04.png" width="700">
+<img src="Images/05.png" width="700">
+<img src="Images/06.png" width="700">
